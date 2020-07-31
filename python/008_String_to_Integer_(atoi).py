@@ -5,7 +5,7 @@ def myAtoi(str):
     """
     # Approach 1: Validate
     # Time Complexity: O(n)
-    # where n == len(s)
+    # where n == len(str)
     # Space Complexity: O(1)
 
     # remove white spaces

@@ -5,7 +5,7 @@ def reverse(x):
     """
     # Approach 1: Check negative and validate
     # Time Complexity: O(n)
-    # where n == len(s)
+    # where n == len(x)
     # Space Complexity: O(1)
 
     # set default neg value to False
