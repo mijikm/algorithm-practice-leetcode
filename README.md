@@ -13,10 +13,10 @@
 |7.     | Reverse Integer                                |Easy   |[Python](python/007_Reverse_Integer.py)|Check negative and validate|O(n)|O(1)|
 |8.     | String to Integer (atoi)                       |Meidum   |[Python](python/008_String_to_Integer.py)|Validate|O(n)|O(1)|
 |\*9.   | Palindrome Number                              |Easy   |[Python](python/009_Palindrome_Number.py)|Convert to string|O(n)|O(1)|
-|10.    | Regular Expression Matching                    |Hard |[Python](python/010_Regular_Expression_Matching.py)||||
-|11.    | Container With Most Water                      |Medium |[Python](python/011_Container_With_Most_Water.py)||||
-|13.    | Roman to Integer                               |Easy|[Python](python/013_Roman_to_Integer.py)||||
-|14.    | Longest Common Prefix                          |Easy|[Python](python/014_Longest_Common_Prefix.py)||||
+|10.    | Regular Expression Matching                    |Hard |[Python]||||
+|11.    | Container With Most Water                      |Medium |[Python]||||
+|13.    | Roman to Integer                               |Easy|[Python](python/013_Roman_to_Integer.py)|Traverse considering six instances|O(n)|O(1)|
+|14.    | Longest Common Prefix                          |Easy|[Python](python/014_Longest_Common_Prefix.py)|Brute Force|O(mk)</br>where k is the length of common prefix|O(k)|
 |15.    | 3Sum                                           |Medium|[Python](python/015_3Sum.py)||||
 |17.    | Letter Combinations of a Phone Number          |Medium|[Python](python/017_Letter_Combinations_of_a_Phone_Number.py)||||
 |19.    | Remove Nth Node From End of List               |Medium|[Python](python/019_Remove_Nth_Node_From_End_of_List.py)||||
